@@ -59,16 +59,19 @@ Based on the dashboard design and views, this project empowers FinTech stakehold
 ## 📸 Dashboard Previews
 
 ### 1. Monthly Transaction Trend Analysis (Line View)
+<img width="1359" height="760" alt="Screenshot 2026-06-17 164018" src="https://github.com/user-attachments/assets/cfedd399-2146-4d05-8d9f-2a90871be903" />
 
-_Demonstrates a line chart layout emphasizing the historical trajectory of total transactions across the year 2024._ Refer to: `Screenshot 2026-06-17 164018.png` and `Screenshot 2026-06-17 164121.png`
+
+<img width="1339" height="753" alt="Screenshot 2026-06-17 164121" src="https://github.com/user-attachments/assets/a7117f6a-a1e2-4d63-add7-82e84a6cb1ff" />
+
 
 ### 2. Balance Volume Variations (Column View)
 
-_Showcases the bookmark functionality toggling the canvas to a column layout analyzing remaining asset balances._ Refer to: `Screenshot 2026-06-17 164206.png`
+<img width="1341" height="750" alt="Screenshot 2026-06-17 164206" src="https://github.com/user-attachments/assets/00adab2e-0262-47a0-9c64-d728f45d5b9f" />
 
 ### 3. Regional Multi-Currency Performance Matrix
+<img width="1331" height="748" alt="Screenshot 2026-06-17 164218" src="https://github.com/user-attachments/assets/b1a80840-d8dc-4e31-8de2-98b1f80bd73f" />
 
-_A deep-dive data grid integrating custom conditional cell formatting to isolate monetary value densities across four major urban hubs._ Refer to: `Screenshot 2026-06-17 164218.png`
 
 ## 🛠️ Tech Stack & Skills Highlighted
 
