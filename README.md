@@ -8,11 +8,11 @@ To maximize user experience (UX) and allow stakeholders to seamlessly pivot betw
 
 ## 🚀 Advanced UI/UX & Technical Implementations
 
--   **Dynamic Visualization Toggling (Bookmarks):** Implemented custom bookmark navigation to allow users to switch dynamically between **Line Charts** (for trend trajectory) and **Column Charts** (for comparative volume) on the fly for both transaction amounts and remaining balances.
+-   Dynamic Visualization Toggling (Bookmarks)
     
--   **Synchronized Cross-Report Slicers:** Configured multi-field synchronized slicers (including BankNameSent, BankNameReceived, City, DeviceType, Gender, Age Groups, MerchantName, PaymentMethod, Purpose, and TransactionType) ensuring state persistence across different analytical views.
+-   Synchronized Cross-Report Slicers
     
--   **Multi-Currency Conditional Matrix Formatting:** Engineered a detailed matrix view that tracks transactions across multiple global currencies (EUR, USD, GBP, INR) mapped against major operational hubs (Bangalore, Delhi, Hyderabad, Mumbai), leveraging color-scale conditional formatting to instantly flag high-value volume and liquidity pools.
+-   Multi-Currency Conditional Matrix Formatting
     
 
 ## 💡 Key Business Questions Answered
@@ -43,18 +43,7 @@ Based on the dashboard design and views, this project empowers FinTech stakehold
 -   **Which regional corridors generate the highest financial volume?** Highlights which specific city-currency pairings drive the largest market share (e.g., mapping Bangalore/EUR transactions directly against Mumbai/INR transactions).
     
 -   **Where are the high-value transaction clusters located?** The conditional color gradient immediately exposes outlier months where specific regional nodes processed unusually high volumes (e.g., highlighting large asset movements in March for Bangalore and April/August for Hyderabad).
-    
 
-## 🏗️ Project Architecture & Repository Structure
-
-1.  **Data Ingestion:** Sourced raw transactional profiles from **Kaggle**.
-    
-2.  **Data Modeling & DAX:** Star-schema development optimization, establishing relationship structures to gracefully handle deep filter criteria across multi-layered dimensions.
-    
-3.  **Report Development:** Built custom canvas templates with dark title elements and custom control buttons inside **Power BI Desktop**.
-    
-4.  **Cloud Deployment:** Published directly to a workspace in **Power BI Service (Fabric)** for stakeholder distribution.
-    
 
 ## 📸 Dashboard Previews
 
